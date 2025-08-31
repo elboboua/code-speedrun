@@ -1,0 +1,119 @@
+{
+  "languages": [
+    {
+      "name": "C",
+      "type": "compiled",
+      "type_system": "static"
+    },
+    {
+      "name": "C#",
+      "type": "compiled",
+      "type_system": "static"
+    },
+    {
+      "name": "C++",
+      "type": "compiled",
+      "type_system": "static"
+    },
+    {
+      "name": "Dart",
+      "type": "compiled",
+      "type_system": "static"
+    },
+    {
+      "name": "Elixir",
+      "type": "compiled",
+      "type_system": "dynamic"
+    },
+    {
+      "name": "Go",
+      "type": "compiled",
+      "type_system": "static"
+    },
+    {
+      "name": "Haskell",
+      "type": "compiled",
+      "type_system": "static"
+    },
+    {
+      "name": "Java",
+      "type": "compiled",
+      "type_system": "static"
+    },
+    {
+      "name": "JavaScript",
+      "type": "interpreted",
+      "type_system": "dynamic"
+    },
+    {
+      "name": "Kotlin",
+      "type": "compiled",
+      "type_system": "static"
+    },
+    {
+      "name": "Lua",
+      "type": "interpreted",
+      "type_system": "dynamic"
+    },
+    {
+      "name": "Objective-C",
+      "type": "compiled",
+      "type_system": "static"
+    },
+    {
+      "name": "Perl",
+      "type": "interpreted",
+      "type_system": "dynamic"
+    },
+    {
+      "name": "PHP",
+      "type": "interpreted",
+      "type_system": "dynamic"
+    },
+    {
+      "name": "PowerShell",
+      "type": "interpreted",
+      "type_system": "dynamic"
+    },
+    {
+      "name": "Python",
+      "type": "interpreted",
+      "type_system": "dynamic"
+    },
+    {
+      "name": "R",
+      "type": "interpreted",
+      "type_system": "dynamic"
+    },
+    {
+      "name": "Ruby",
+      "type": "interpreted",
+      "type_system": "dynamic"
+    },
+    {
+      "name": "Rust",
+      "type": "compiled",
+      "type_system": "static"
+    },
+    {
+      "name": "Scala",
+      "type": "compiled",
+      "type_system": "static"
+    },
+    {
+      "name": "Shell",
+      "type": "interpreted",
+      "type_system": "dynamic"
+    },
+    {
+      "name": "Swift",
+      "type": "compiled",
+      "type_system": "static"
+    },
+    {
+      "name": "TypeScript",
+      "type": "compiled",
+      "type_system": "static"
+    }
+  ]
+}
